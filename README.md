@@ -1,3 +1,3 @@
-# CSRP CAD Integration
+# CSRP /rti and OOV Detection Integration
 
-For use by CSRP
+Handles /rti (route to incident), as well as OOV detection via API. All verification matching done via FiveM Discord identifier.
